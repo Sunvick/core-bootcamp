@@ -1,0 +1,24 @@
+{
+    "name": "Neil Aspag",
+    "description": "Parang wala lang",
+    "symbol": "row4",
+    "image": "https://i.imgur.com/SNysljd.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "SELYO EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
